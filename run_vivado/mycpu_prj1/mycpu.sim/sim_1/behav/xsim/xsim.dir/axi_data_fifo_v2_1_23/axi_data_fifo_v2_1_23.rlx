@@ -1,0 +1,5 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+D:/Programs/vivado/CPU_CDE_AXI/mycpu_axi_verify/run_vivado/mycpu_prj1/mycpu.ip_user_files/ipstatic/hdl/axi_data_fifo_v2_1_vl_rfs.v,1629698467,verilog,,,,axi_data_fifo_v2_1_23_axi_data_fifo;axi_data_fifo_v2_1_23_axic_fifo;axi_data_fifo_v2_1_23_axic_reg_srl_fifo;axi_data_fifo_v2_1_23_axic_srl_fifo;axi_data_fifo_v2_1_23_fifo_gen;axi_data_fifo_v2_1_23_ndeep_srl,,uvm,../../../../../../rtl/myCPU;../../../../mycpu.ip_user_files/ipstatic;../../../../mycpu.ip_user_files/ipstatic/hdl,,,,,

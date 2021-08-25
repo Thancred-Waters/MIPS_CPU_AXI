@@ -1,0 +1,6 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+D:/Programs/vivado/CPU_CDE_AXI/mycpu_axi_verify/run_vivado/mycpu_prj1/mycpu.ip_user_files/ipstatic/hdl/axi_infrastructure_v1_1_0.vh,1629698467,verilog,,,,,,,,,,,,
+D:/Programs/vivado/CPU_CDE_AXI/mycpu_axi_verify/run_vivado/mycpu_prj1/mycpu.ip_user_files/ipstatic/hdl/axi_infrastructure_v1_1_vl_rfs.v,1629698467,verilog,,,D:/Programs/vivado/CPU_CDE_AXI/mycpu_axi_verify/run_vivado/mycpu_prj1/mycpu.ip_user_files/ipstatic/hdl/axi_infrastructure_v1_1_0.vh,axi_infrastructure_v1_1_0_axi2vector;axi_infrastructure_v1_1_0_axic_srl_fifo;axi_infrastructure_v1_1_0_vector2axi,,uvm,../../../../../../rtl/myCPU;../../../../mycpu.ip_user_files/ipstatic;../../../../mycpu.ip_user_files/ipstatic/hdl,,,,,
